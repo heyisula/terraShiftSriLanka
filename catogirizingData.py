@@ -5,7 +5,7 @@ from collections import defaultdict
 
 
 SOURCE_DIR = "uncategorized"
-TARGET_DIR = "data"
+TARGET_DIR = "data/raw"
 
 os.makedirs(TARGET_DIR, exist_ok=True)
 pattern = re.compile(r"_(\d{8})_")
