@@ -1,4 +1,3 @@
-```markdown
 # 🌍 TerraShift Sri Lanka: Kalpitiya Deforestation & Land‑Cover Change Analysis  
 *Satellite‑based remote sensing of the Kalpitiya Peninsula, Sri Lanka (2016‑2025)*  
 
