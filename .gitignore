@@ -1,6 +1,12 @@
 data/
 uncategorized/
-out/
+out/evi/
+out/nbr/
+out/ndbi/
+out/ndvi
+out/ndwi
+out/stacked/
+out/models/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
