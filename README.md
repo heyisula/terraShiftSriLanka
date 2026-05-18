@@ -380,7 +380,7 @@ If you use this repository in a publication or academic work, please cite:
 
 <div align="center">
 
-Made with 🛰️ Python and remote sensing science
+Made with Satelite Imagery, Python and remote sensing science
 
 **[⭐ Star this repo](https://github.com/heyisula/terraShiftSriLanka)** if you found it useful!
 
